@@ -56,7 +56,8 @@ A short demo showcasing the complete flow of the system:
 4. The requested file is delivered automatically  
 
 ▶️ **Demo Video:**  
-https://github.com/14kartiksingh/telegram-token-gated-file-delivery/blob/main/demo.mp4
+[https://github.com/14kartiksingh/telegram-token-gated-file-delivery/blob/main/demo.mp4](https://raw.githubusercontent.com/14kartiksingh/telegram-token-gated-file-delivery/main/demo.mp4
+)
 
 > Live access is intentionally restricted for security reasons.  
 > This demo illustrates the workflow without exposing production tokens or files.
