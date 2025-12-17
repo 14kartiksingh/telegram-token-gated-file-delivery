@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Private File Access</title>
+</head>
+<body>
+  <h2>Available Files</h2>
+  <a href="https://t.me/your_bot?start=RANDOM_TOKEN_1">Download File 1</a><br>
+  <a href="https://t.me/your_bot?start=RANDOM_TOKEN_2">Download File 2</a>
+</body>
+</html>
