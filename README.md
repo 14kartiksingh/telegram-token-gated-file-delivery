@@ -48,8 +48,19 @@ site/ → Static website with download links
 
 ## 🎥 Demo
 
-A short demo video/GIF is included to demonstrate the workflow.  
-Live access is intentionally restricted for security reasons.
+A short demo showcasing the complete flow of the system:
+
+1. User clicks a download button on the website  
+2. Telegram bot is opened via a deep link  
+3. Bot validates the token using Cloudflare Workers  
+4. The requested file is delivered automatically  
+
+▶️ **Demo Video:**  
+https://github.com/14kartiksingh/telegram-token-gated-file-delivery/blob/main/demo.mp4
+
+> Live access is intentionally restricted for security reasons.  
+> This demo illustrates the workflow without exposing production tokens or files.
+
 
 ---
 
